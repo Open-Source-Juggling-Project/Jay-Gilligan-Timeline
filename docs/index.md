@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Siteswap Families
+title: Jay Gilligan Timeline
 ---
 
-# Siteswap Families
+# Jay Gilligan Timeline
 
-<p class="button"><a href="original.html">Original Document</a></p>
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1fixk2RapipulcDi4ghe0XiTjE03n6tyjrBOCvQZQXtc&font=Default&lang=en&initial_zoom=2' width='100%' height='500' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
